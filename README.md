@@ -3,7 +3,7 @@
 ## If you are a 42 Student, do not copy/paste this project, it will be considered cheating and you will be grated -42.
 
 # 42 Wolfsburg Cursus
-## Webser
+## Webserv
 ## This is when you finally understand why a URL starts with HTTP
 
 # Contents
