@@ -1,0 +1,6 @@
+.vscode
+.idea
+*.o
+webserv
+webserv.dSYM
+.DS_store
